@@ -1,4 +1,4 @@
-# SUICIDE ESCAPE GAME
+# KILL MAN GAME
 # React + Vite
 
 This is a responsive escape game made using React and Vite. It is a simple game where you have to guess the word by guessing letters. The game is designed to be highly interactive and responsive, making it a great addition to any escape room or escape the room style game.
